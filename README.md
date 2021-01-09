@@ -1,6 +1,6 @@
 # PostgreSQL - Database Exploration
 
-Tables are created to hold data from six CSVs files. An ERD and table schema are created in order to run specific queries on all data. The focus of this project was specifically:
+Tables are created to hold data from six CSV files. An ERD and table schema are created in order to run specific queries on all data. The focus of this project was specifically:
 
 1. Data Engineering
 
